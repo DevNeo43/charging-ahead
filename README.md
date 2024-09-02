@@ -8,4 +8,16 @@ Climate change mitigation efforts underscore the pivotal role of Alternative Fue
 
 ## Example Results 
 
+![op1_combine](https://github.com/user-attachments/assets/23fe2467-53f0-4fd2-b9be-0a71f6ebcc9a)
+
 ## Datasets
+
+We collected YouTube comment data from January 2010 to February 27, 2024. YouTube, with its extensive user base and diverse content, is an ideal platform for analyzing public opinions and emotions. 
+
+The data collection started in 2010, coinciding with the commercialization of Hybrid Electric Vehicles (HEVs) in Korea. The YouTube Data API v3 was used to gather comments using keywords such as `electric vehicle`, `plug-in hybrid`, `hybrid`, `hydrogen vehicle`, and `eco-friendly vehicle`. These keywords were chosen to reflect key terms related to Alternative Fuel Vehicles (AFVs). In total, 1,176,360 entries were collected through the YouTube Data API v3.
+
+If you want to use the data, please refer to the GitHub repository.
+
+## Citation
+
+TBD
